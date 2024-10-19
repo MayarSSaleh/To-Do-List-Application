@@ -1,7 +1,7 @@
 # To-Do-List-Application
 "To Do List" Application: It allows you to easily add, edit, and delete tasks, set priorities, and mark tasks as completed.
  
-Features :
+# Features :
 1. Add with Ease: Quickly add new tasks with names, descriptions, priorities (high, medium, or low), date, and time.
 2. See all your tasks in one place according tog their status.
 3. Tap on any to view the details.
@@ -10,7 +10,6 @@ Features :
 6. Filtering: Filter your tasks depending on priority using the filter button.
 7. Local Saving: Access all tasks anytime you open the app, even offline.
  
-Technologies used:
-· UIKit.
-· User Defaults to save custom objects.
-. Creating a table view with custom cells.
+# Technologies used:
+* UIKit
+* User Defaults .
